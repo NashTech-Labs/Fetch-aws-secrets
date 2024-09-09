@@ -54,4 +54,6 @@ region_name = "us-east-1"
 ```
 ### Run script
 Once you have set the secret_name and region_name, run the script using Python:
-```python secrets_manager.py
+```
+python secrets_manager.py
+```
